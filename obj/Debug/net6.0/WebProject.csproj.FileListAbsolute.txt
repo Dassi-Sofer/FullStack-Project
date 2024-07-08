@@ -1,0 +1,439 @@
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\Web Api\project\EF core\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cs
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+M:\Web Api\project\EF core\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
+E:\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+E:\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+E:\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+E:\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+E:\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cs
+E:\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+E:\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+E:\EF core\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+E:\EF core\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+E:\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+E:\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+E:\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+E:\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+E:\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cs
+E:\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+E:\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+E:\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+E:\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+F:\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+F:\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+F:\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+F:\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+F:\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cs
+F:\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+F:\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+F:\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+F:\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+F:\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+F:\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+F:\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+F:\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+F:\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+F:\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+F:\WebProject\WebProject\bin\Debug\net6.0\AutoMapper.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+F:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+F:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+F:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+F:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+F:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+F:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+F:\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+F:\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+F:\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+F:\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+E:\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+E:\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+E:\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+E:\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+E:\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+E:\WebProject\WebProject\bin\Debug\net6.0\AutoMapper.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+E:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+E:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+E:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+E:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+E:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+E:\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+E:\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+E:\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+E:\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+M:\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+M:\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+M:\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+M:\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+M:\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+M:\WebProject\WebProject\bin\Debug\net6.0\AutoMapper.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+M:\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+M:\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+M:\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+M:\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+M:\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cs
+M:\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+M:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+M:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+M:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+M:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+M:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+M:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+M:\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+M:\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+M:\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+M:\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+M:\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+M:\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+M:\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+M:\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cs
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\AutoMapper.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+J:\סמינר\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+J:\סמינר\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\appsettings.Development.json
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\appsettings.json
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\WebProject.exe
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\WebProject.deps.json
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\WebProject.runtimeconfig.json
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\WebProject.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\WebProject.pdb
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\AutoMapper.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Humanizer.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\WebProject\WebProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\WebProject.GeneratedMSBuildEditorConfig.editorconfig
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfoInputs.cache
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\WebProject.AssemblyInfo.cs
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CoreCompileInputs.cache
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cs
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\WebProject.MvcApplicationPartsAssemblyInfo.cache
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.build.json
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.development.json
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.WebProject.Microsoft.AspNetCore.StaticWebAssets.props
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebProject.props
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebProject.props
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebProject.props
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\staticwebassets.pack.json
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\scopedcss\bundle\WebProject.styles.css
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.CopyComplete
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\WebProject.dll
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\refint\WebProject.dll
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+M:\web api\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
