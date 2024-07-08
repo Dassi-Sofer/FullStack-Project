@@ -1,0 +1,28 @@
+
+<form [formGroup]="donorForm">
+    <div class="p-field">
+        <label for="name"> Name</label>
+        <input type="text" pInputText id="name" formControlName="name" required autofocus />
+        <!-- <small class="p-error" *ngIf="submitted && !product.name">Name is required.</small> -->
+    </div>
+    <div class="p-field">
+        <label for="address"> Address</label>
+        <input type="text" pInputText id="address" formControlName="address" required autofocus />
+        <!-- <small class="p-error" *0ngIf="submitted && !product.name">Name is required.</small> -->
+    </div>
+    <div class="p-field">
+        <label for="phone"> Phone</label>
+        <input type="text" pInputText id="phone" formControlName="phone" required autofocus />
+        <!-- <small class="p-error" *ngIf="submitted && !product.name">Name is required.</small> -->
+    </div>
+    <div class="p-field">
+        <label for="email"> Email</label>
+        <input type="text" pInputText id="email" formControlName="email" required autofocus />
+        <!-- <small class="p-error" *ngIf="submitted && !product.name">Name is required.</small> -->
+    </div>
+
+    <div class="p-dialog-footer">
+        <button pButton pRipple label="Cancel" icon="pi pi-times" class="p-button-text" (click)="cancle()"></button>
+        <button pButton pRipple label="Save" icon="pi pi-check" class="p-button-text" (click)="saveNew()"></button>
+    </div> 
+</form>

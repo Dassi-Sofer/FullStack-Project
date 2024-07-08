@@ -1,0 +1,15 @@
+.table-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.my-css{
+    /* height: 30vh; */
+    width: 70vw;
+    overflow: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pl{
+    text-align: center;
+}

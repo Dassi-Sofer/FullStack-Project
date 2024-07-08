@@ -1,0 +1,43 @@
+
+
+<p-toolbar styleClass="mb-4">
+    <ng-template pTemplate="right">
+     
+     <span class="p-input-icon-left">
+         <i class="pi pi-search"></i>
+         <input pInputText type="text" 
+         (input)="dt.filterGlobal($event.target.value, 'contains')"
+             placeholder="Search..." />
+     </span>
+ </ng-template>
+</p-toolbar>
+
+<div class="my-css" >
+ <p-table #dt [value]="users" [rows]="5" [paginator]="true"
+     [globalFilterFields]="['fullName','phone','email']" 
+     [rowHover]="true" dataKey="id" currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries"
+     [showCurrentPageReport]="true">
+    
+     <ng-template pTemplate="header">
+         <tr>
+             <th pSortableColumn="fullName">שם <p-sortIcon field="fullName"></p-sortIcon></th>
+             <th pSortableColumn="phone"> טלפון<p-sortIcon field="phone"></p-sortIcon></th>
+             <th pSortableColumn="email">מייל<p-sortIcon field="email"></p-sortIcon></th>
+
+         </tr>
+     </ng-template>
+     <ng-template pTemplate="body" let-user >
+         <tr>
+
+             
+             <td>{{user.fullName}}</td>
+             <td>{{user.phone}}</td>
+             <td>{{user.email}}</td>
+         </tr>
+     </ng-template>
+     <ng-template pTemplate="summary">
+         
+     </ng-template>
+ </p-table>
+</div>
+

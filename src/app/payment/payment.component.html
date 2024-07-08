@@ -1,0 +1,52 @@
+
+<h1 class="pay">סך הכל לתשלום ₪{{price}} </h1>
+<form [formGroup]="cartForm">
+
+<!-- <input type="text" pInputText [(ngModel)]="name" class="ng-invalid ng-dirty" /> -->
+
+ <div class="input">
+<h6>נא הכנס פרטי אשראי</h6>
+
+<div class="p-inputgroup">
+    <span class="p-inputgroup-addon">
+        <i class="pi pi-credit-card"></i>
+    </span>
+    <input  [(ngModel)]="creditCard" pInputText maxlength="12" type="text" pKeyFilter="num" id="misparPelephone" formControlName="creditCard" placeholder="creditCard" />
+</div>
+<br>
+<div class="p-inputgroup">
+    <span class="p-inputgroup-addon">
+        <i class="pi pi-calendar"></i>
+    </span>
+   
+    <p-calendar class="dd" formControlName="validity"[(ngModel)]="validity" view="month" dateFormat="mm/yy" placeholder="validity"  [style]="{width:'20vw'}"></p-calendar>
+    <!-- <input formControlName="validity" required autofocus pInputText placeholder="validity" /> -->
+</div>
+<br>
+<div class="p-inputgroup">
+    <span class="p-inputgroup-addon">
+        <i class="pi pi-pencil"></i>
+    </span>
+    <input  [(ngModel)]="cvc" pInputText maxlength="3" type="text" pKeyFilter="num" id="misparPelephone" formControlName="cvc"  placeholder="cvc"/>
+</div>
+
+<br>
+<div class="p-inputgroup">
+    <span class="p-inputgroup-addon">
+        <i class="pi pi-id-card"></i>
+    </span>
+    <!-- <input formControlName="id" required autofocus pInputText placeholder="id" /> -->
+    <input  placeholder="id" [(ngModel)]="id" pInputText maxlength="9" type="text" pKeyFilter="num" id="misparPelephone" formControlName="id" />
+</div>
+
+
+<br>
+<br>
+<span class="p-buttonset">
+    <button [disabled]="cartForm.invalid" pButton pRipple label="Save" icon="pi pi-send" (click)="save()"></button>
+    <button pButton pRipple label="Cancel" icon="pi pi-times"></button>
+ <button pButton pRipple label="Back" icon=" pi pi-replay" (click)="back()"></button> 
+</span>
+</div>
+
+</form>

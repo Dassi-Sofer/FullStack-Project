@@ -1,0 +1,76 @@
+
+<p-toolbar styleClass="mb-4">
+       <ng-template pTemplate="right">
+        <button id="bb" pButton pRipple label="New" icon="pi pi-plus" class="p-button-success mr-2" (click)="addNew()"></button>
+        
+        <span class="p-input-icon-left">
+            <i class="pi pi-search"></i>
+            <input  pInputText type="text" 
+            (input)="dt.filterGlobal($event.target.value, 'contains')"
+                placeholder="Search..." />
+        </span>
+    </ng-template>
+</p-toolbar>
+
+<div class="my-css">
+    <p-table #dt [value]="presentService.myPresent" [rows]="5" [paginator]="true"
+        [globalFilterFields]="['name','donorId','cost','category','image']" 
+        [rowHover]="true" dataKey="id" currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries"
+        [showCurrentPageReport]="true">
+       
+        <ng-template pTemplate="header">
+            <tr>
+                <th pSortableColumn="name">שם מוצר <p-sortIcon field="name"></p-sortIcon></th>
+                <th pSortableColumn="cost">מחיר הכרטיס <p-sortIcon field="cost"></p-sortIcon></th>
+                <th pSortableColumn="donorId">תורם המוצר <p-sortIcon field="donorId"></p-sortIcon></th>
+                <th pSortableColumn="image"> תמונה <p-sortIcon field="image"></p-sortIcon></th>
+                <th pSortableColumn="category">קטגוריה  <p-sortIcon field="category"></p-sortIcon></th>
+                <th pSortableColumn="quentity" > כמות רוכשים <p-sortIcon field="quentity"></p-sortIcon></th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-presnt>
+            <tr>
+                <td>{{presnt.name}}</td>
+                <td>{{presnt.cost | currency:'ILS':'symbol-narrow'}}</td>
+                <td>{{presnt.donor.name}}</td>
+               <td> <img id="card-image " class="card-image" src="{{presnt.image}}"  width="100" class="shadow-4" /></td>
+                <!-- <td><img [src]="'../../assets/images/' + presnt.image"  width="100" class="shadow-4" /></td> -->
+                <td>{{presnt.category}}</td>
+                <td>{{presnt.quentity}}</td>
+                <td>
+                    <button id="bv" pButton pRipple icon="pi pi-gift" class="p-button-rounded p-button-warning"
+                    (click)="raffle(presnt.id)"></button>
+
+                    <button id="bb" pButton pRipple icon="pi pi-pencil" class="p-button-rounded p-button-success mr-2"
+                        (click)="editPresnt(presnt)"></button>
+                    <button  id="bl" pButton pRipple icon="pi pi-trash" class="p-button-rounded p-button-warning"
+                        (click)="deletePresnt(presnt.id)"></button>
+                </td>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="summary">
+            <div class="flex align-items-center justify-content-between">
+                In total there are {{presentService.myPresent ? presentService.myPresent.length : 0 }} presnts.
+            </div>
+        </ng-template>
+    </p-table>
+</div>
+
+<p-dialog  [(visible)]="showDialog" [style]="{width: '450px'}" header="Product Details" [modal]="true"
+    styleClass="p-fluid">
+    <!-- <pre>{{presentService.currentPresnt|json}}</pre> -->
+        <app-present [selectedPresent]="presentService.currentPresnt"
+                     (closeDaialog)="showDialog = false;"
+                     (updateDetails)="saveProduct($event)">
+                     <!-- (presntFormChanged)="saveProduct($event)" -->
+                    </app-present>
+</p-dialog>
+<p-dialog header="The Winner" [(visible)]="visible" [style]="{width: '25vw'}" >
+    <ng-template pTemplate="body">
+
+        <div >
+            {{presentService.winner.fullName}}
+        </div>
+        
+</ng-template>
+</p-dialog>

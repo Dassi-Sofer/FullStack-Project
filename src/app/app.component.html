@@ -1,0 +1,66 @@
+
+
+<p-toolbar class="links" styleClass="mb-4" *ngIf="showNavigate">
+
+<div class="buttons"  *ngIf="userService.isAdmin"> 
+ 
+    <button  routerLink="home" routerLinkActive="active-link" pButton type="button" label="home" 
+       class="p-button-link" 
+       icon="pi pi-home"> 
+      </button> 
+    
+     <button  routerLink="present" routerLinkActive="active-link" pButton type="button" label="present" 
+       class="p-button-link" 
+       icon="pi pi-gift"> 
+      </button> 
+
+    <button  routerLink="donor" routerLinkActive="active-link" pButton type="button" label="donor" 
+       class="p-button-link" 
+       icon="pi pi-user"> 
+      </button> 
+
+      <button routerLink="users" routerLinkActive="active-link" pButton type="button" label="users" 
+      class="p-button-link" 
+      icon="pi pi-shopping-cart"> 
+     </button>
+         
+     <button routerLink="winners" routerLinkActive="active-link" pButton type="button" label="winners" 
+     class="p-button-link" 
+     icon="pi pi-hourglass"> 
+    </button> 
+
+      <!-- <button routerLink="raffle" routerLinkActive="active-link" pButton type="button" label="raffle" 
+       class="p-button-link" 
+       icon="pi pi-hourglass"> 
+      </button>  -->
+</div>
+
+
+<div class="buttons"  *ngIf="!userService.isAdmin"> 
+  <button  routerLink="home" routerLinkActive="active-link" pButton type="button" label="Home" 
+  class="p-button-link" 
+  icon="pi pi-home"> 
+ </button> 
+      <button routerLink="Purchase" routerLinkActive="active-link" pButton type="button" label="Purchase" 
+       class="p-button-link" 
+       icon="pi pi-shopping-cart"> 
+      </button> 
+        <!-- <button routerLink="cart" routerLinkActive="active-link" pButton type="button" label="Cart" 
+         class="p-button-link" 
+         icon="pi pi-shopping-cart"> 
+        </button> 
+        <button routerLink="pay" routerLinkActive="active-link" pButton type="button" label="Pay" 
+        class="p-button-link" 
+        icon="pi pi-shopping-cart"> 
+       </button>  -->
+
+      <!-- <button routerLink="Present" routerLinkActive="active-link" pButton type="button" label="Present" 
+       class="p-button-link" 
+       icon="pi pi-shopping-cart"> 
+      </button>  -->
+
+      
+ 
+</div>
+</p-toolbar>
+<router-outlet></router-outlet>

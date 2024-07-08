@@ -1,0 +1,47 @@
+
+<p-toolbar styleClass="mb-4" *ngIf="!empty">
+    <ng-template pTemplate="right">
+     
+     <span class="p-input-icon-left">
+         <i class="pi pi-search"></i>
+         <input pInputText type="text" 
+         (input)="dt.filterGlobal($event.target.value, 'contains')"
+             placeholder="Search..." />
+     </span>
+ </ng-template>
+</p-toolbar>
+
+<div class="my-css" *ngIf="!empty">
+ <p-table #dt [value]="winners" [rows]="5" [paginator]="true"
+     [globalFilterFields]="['present.name','present.image','user.fullName','user.phone','user.email']" 
+     [rowHover]="true" dataKey="id" currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries"
+     [showCurrentPageReport]="true">
+    
+     <ng-template pTemplate="header">
+         <tr>
+             <th pSortableColumn="present.name">שם המתנה <p-sortIcon field="present.name"></p-sortIcon></th>
+             <th pSortableColumn="present.image">תמונה<p-sortIcon field="present.image"></p-sortIcon></th>
+             <th pSortableColumn="user.fullName">  שם הזוכה<p-sortIcon field="user.fullName"></p-sortIcon></th>
+             <th pSortableColumn="user.phone"> טלפון<p-sortIcon field="user.phone"></p-sortIcon></th>
+             <th pSortableColumn="user.email">מייל<p-sortIcon field="user.email"></p-sortIcon></th>
+
+         </tr>
+     </ng-template>
+     <ng-template pTemplate="body" let-winner >
+         <tr>
+             <td>{{winner.present.name}}</td>
+             <td> <img id="card-image " class="card-image" src="{{winner.present.image}}"  width="100" class="shadow-4" /></td>
+             <td>{{winner.user.fullName}}</td>
+             <td>{{winner.user.phone}}</td>
+             <td>{{winner.user.email}}</td>
+         </tr>
+     </ng-template>
+     <ng-template pTemplate="summary">
+         
+     </ng-template>
+ </p-table>
+</div>
+<div *ngIf="empty" [style]="{'text-align':'center'}">
+    <h2>עדיין  אין זוכים</h2>
+</div>
+<button id="bv" pButton pRipple icon="pi pi-gift" class="p-button-rounded p-button-warning"(click)="getallIncomes()">סה"כ הכנסות למכירה סינית</button>

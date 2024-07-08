@@ -1,0 +1,30 @@
+
+<div class="card-container" >
+
+
+    <div class="product-container">
+      <span class="p-buttonset">
+      <button id="b" pButton pRipple label="yourCart" icon="pi pi-shopping-cart" (click)="GoToCart()"></button>
+      </span>
+      <div class="product-item" *ngFor="let item of presentService.myPresent">
+       
+        <img src="{{item.image}}" alt="{{ item.name }}" class="product-image">
+        <div class="product-details">
+          <h5>{{ item.name }}</h5>
+          <p>Price: {{ item.cost | currency:'ILS':'symbol-narrow'}}</p>
+          <button *ngIf="!item.isRuffled" id="btn" pButton type="button" icon="pi pi-shopping-cart" (click)="addToCart(item)">Buy Now! </button>
+          <h5 *ngIf="item.isRuffled"> The Winner: {{item.winner.fullName}}</h5>
+ 
+        </div>
+      </div>
+      
+
+      <div class="product-details">
+          <button id="bv" pButton pRipple class="p-button-rounded p-button-warning"(click)="sortByCost()">מיון לפי מחיר</button>
+      </div>
+      <div class="product-details">
+        <button id="bv" pButton pRipple class="p-button-rounded p-button-warning"(click)="sortByCategory()">מיון לפי קטגוריה</button>
+      </div>
+    </div>
+
+

@@ -1,0 +1,25 @@
+.input{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20vw;
+    padding-top: 1cm;
+    padding-bottom: 20px;
+
+}
+
+.pay{
+    margin-left: 1200px;
+}
+.log{
+    margin-left: auto;
+    margin-right: auto;
+   
+
+}
+button{
+    margin-top: auto;
+    margin-left: 47vw;
+    background-color: darkmagenta;
+    border-color: darkmagenta;
+
+}

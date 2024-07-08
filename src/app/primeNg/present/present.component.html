@@ -1,0 +1,47 @@
+
+<!-- (ngSubmit)="savePresent()" -->
+
+
+<form [formGroup]="presntForm" >
+    <div class="p-field">
+        <label for="name"> שם</label>
+        <input type="text" pInputText id="name" formControlName="name" required autofocus />
+        <!-- <small class="p-error" *ngIf="submitted && !product.name">Name is required.</small> -->
+    </div>
+    <div class="p-field">
+        <label for="donorId"> שם תורם המתנה</label>
+        <!-- <p-multiSelect  formControlName="donorId" [options]="myDonor" [(ngModel)]="myDonor" ></p-multiSelect> -->
+        <select pInputText  id="donorId" formControlName="donorId"  [(ngModel)]="myDonor">
+            <option  *ngFor="let item of myDonor " [value]="item.id">{{item.name}} </option>
+</select> 
+        <!-- <p-cascadeSelect [(ngModel)]="myDonor" [options]="myDonor" optionLabel="name" optionGroupLabel="name" [style]="{ minWidth: '14rem' }" placeholder="Select a City"></p-cascadeSelect> -->
+
+        <!-- <input type="text" pInputText id="donorId" formControlName="donorId" required autofocus > -->
+        <!-- <small class="p-error" *0ngIf="submitted && !product.name">Name is required.</small> -->
+    </div>
+    <div class="p-field">
+        <label for="cost">מחיר הכרטיס</label>
+        <input type="text" pInputText id="cost" formControlName="cost" required autofocus />
+        <!-- <small class="p-error" *ngIf="submitted && !product.name">Name is required.</small> -->
+    </div>
+
+    <div class="p-field">
+        <label for="categoryId">  קטגוריה </label>
+        <input type="text" pInputText id="categoryId" formControlName="categoryId" required autofocus />
+        <!-- <small class="p-error" *0ngIf="submitted && !product.name">Name is required.</small> -->
+    </div>
+
+    <div class="p-field">
+        <label for="image">תמונה</label>
+        <input type="text" pInputText id="image" formControlName="image" required autofocus />
+        <!-- <small class="p-error" *ngIf="submitted && !product.name">Name is required.</small> -->
+    </div>
+
+    <div class="p-dialog-footer">
+        <button pButton pRipple label="Cancel" icon="pi pi-times" class="p-button-text" (click)="cancel()"></button>
+        <button pButton pRipple label="Save" icon="pi pi-check" class="p-button-text" (click)="savePresent()"></button>
+        <!-- <input type="submit" pButton pRipple label="Save" icon="pi pi-check" class="p-button-text" > -->
+
+    </div> 
+    <!-- <button type="submit">click</button> -->
+</form>

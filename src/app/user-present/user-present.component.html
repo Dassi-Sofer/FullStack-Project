@@ -1,0 +1,49 @@
+
+
+<div class="my-css">
+ <p-table #dt [value]="presentService.myPresent" [rows]="5" [paginator]="true"
+     [globalFilterFields]="['name','cost','contributor','imageUrl','category']" 
+     [rowHover]="true" dataKey="id" currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries"
+     [showCurrentPageReport]="true">
+     <ng-template pTemplate="caption">
+
+        <div class="flex align-items-center justify-content-between">
+       
+            <span class="p-input-icon-left">
+                <i class="pi pi-search"></i>
+                <input pInputText type="text" (input)="dt.filterGlobal($event.target.value, 'contains')"
+                    placeholder="Search..." />
+            </span>
+        </div>
+    </ng-template>
+     
+    
+     <ng-template pTemplate="header">
+
+         <tr>
+             <th pSortableColumn="name">שם מוצר <p-sortIcon field="name"></p-sortIcon></th>
+             <th pSortableColumn="cost">מחיר הכרטיס <p-sortIcon field="cost"></p-sortIcon></th>
+             <th pSortableColumn="contributor">תורם המוצר <p-sortIcon field="contributor"></p-sortIcon></th>
+             <th pSortableColumn="imageUrl"> תמונה <p-sortIcon field="imageUrl"></p-sortIcon></th>
+             <th pSortableColumn="category">קטגוריה  <p-sortIcon field="category"></p-sortIcon></th>
+             <th></th>
+         </tr>
+     </ng-template>
+     <ng-template pTemplate="body" let-presnt>
+         <tr>
+             <td>{{presnt.name}}</td>
+             <td>{{presnt.cost | currency:'ILS':'symbol-narrow'}}</td>
+             <td>{{presnt.contributor}}</td>
+             <td> <img id="card-image " class="card-image" src="{{presnt.imageUrl}}"  width="100" class="shadow-4" /></td>
+             <td>{{presnt.category}}</td>
+         </tr>
+     </ng-template>
+     <ng-template pTemplate="summary">
+         <div class="flex align-items-center justify-content-between">
+             In total there are {{presentService.myPresent ? presentService.myPresent.length : 0 }} presnts.
+         </div>
+     </ng-template>
+ </p-table>
+</div>
+
+

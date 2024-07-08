@@ -1,0 +1,24 @@
+.table-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.my-css{
+    /* height: 30vh; */
+    width: 70vw;
+    overflow: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#bb{
+    background-color:darkmagenta;
+    border-radius: 5%;
+    border-color: darkmagenta;
+}
+input{
+    border-color: darkmagenta;
+}
+input:focus{
+    box-shadow: darkmagenta;
+    border-color: darkmagenta;
+}

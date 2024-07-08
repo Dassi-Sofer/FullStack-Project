@@ -1,0 +1,21 @@
+
+
+    <div class="product-container">
+        <span class="p-buttonset">
+            <button id="b" class="ll" pButton pRipple label="pay" icon="pi pi-wallet" (click)="toPay()"></button>
+          </span>
+        <div class="product-item" *ngFor="let item of selectedPresent">
+          <img src="{{item.present.image}}" alt="{{ item.present.presentId }}" class="product-image">
+          <div class="product-details">
+            <h5> Quantity: {{ item.quantity }}</h5>
+            <!-- <p>Price: {{ item.present.cardPrice | currency:'ILS':'symbol-narrow'}}</p> -->
+            <p *ngIf="!item.status">
+            <button [visable]="g" id="bb"pButton pRipple icon="pi pi-trash" class="p-button-rounded p-button-warning" (click)="DeleteItem(item.id)"></button>
+            </p>
+            <h3 *ngIf="item.status">
+                 ✔ Paid!
+            </h3>
+          </div>  
+        </div>  
+
+      </div>

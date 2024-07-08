@@ -1,0 +1,76 @@
+<p-toolbar styleClass="mb-4">
+    <ng-template pTemplate="right">
+        <button id="bb" pButton pRipple label="New" icon="pi pi-plus" class="p-button-success mr-2"
+            (click)="addNew()"></button>
+
+
+        <span class="p-input-icon-left ml-auto">
+            <i class="pi pi-search"></i>
+            <input pInputText type="text" (input)="dt.filterGlobal($event.target.value, 'contains')"
+                placeholder="Search keyword" />
+        </span>
+
+    </ng-template>
+</p-toolbar>
+
+<div class="my-css">
+    <p-table #dt [value]="donorService.myDonor" [rows]="5" [paginator]="true"
+        [globalFilterFields]="['name','address','phone','email']" [rowHover]="true" dataKey="id"
+        currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries" [showCurrentPageReport]="true">
+        <ng-template pTemplate="header">
+            <tr>
+                <th pSortableColumn="name">שם<p-sortIcon field="name"></p-sortIcon></th>
+                <th pSortableColumn="address">כתובת<p-sortIcon field="address"></p-sortIcon></th>
+                <th pSortableColumn="phone">טלפון<p-sortIcon field="phone"></p-sortIcon></th>
+                <th pSortableColumn="email">מייל<p-sortIcon field="email"></p-sortIcon></th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-donor>
+            <tr>
+                
+                <td>{{donor.name}}</td>
+                <td>{{donor.address}}</td>
+                <td>{{donor.phone}}</td>
+                <td>{{donor.email}}</td>
+                <td>
+                    <button id="bv" pButton pRipple icon="pi pi-gift" class="p-button-rounded p-button-warning"
+                    (click)="seePresent(donor.id)"></button>
+
+                    <button id="bb" pButton pRipple icon="pi pi-pencil" class="p-button-rounded p-button-success mr-2"
+                        (click)="editDonor(donor.id)"></button>
+
+                    <button id="bl" pButton pRipple icon="pi pi-trash" class="p-button-rounded p-button-warning"
+                        (click)="deleteDonor(donor.id)"></button>
+                   
+                </td>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="summary">
+            <div class="flex align-items-center justify-content-between">
+                In total there are {{donorService.myDonor ?donorService.myDonor.length : 0 }} donors.
+            </div>
+        </ng-template>
+    </p-table>
+</div>
+
+<p-dialog [(visible)]="showDialog" [style]="{width: '450px'}" header="Donor Details" [modal]="true"
+    styleClass="p-fluid">
+    <app-second-donor [selectedDonor]="donorService.currentDonor" (closeDaialog)="showDialog = false;"
+        (updateDetails)="saveDonor($event)">
+    </app-second-donor>
+</p-dialog>
+
+<!-- <p-button (click)="showDialog()" icon="pi pi-external-link" label="Show"></p-button> -->
+
+<p-dialog header="your Presents" [(visible)]="visible" [style]="{width: '50vw'}" >
+    <ng-template pTemplate="body" >
+<div *ngFor="let a of presents">
+    {{a.name}} 
+    <br>
+    <img id="card-image " class="card-image" src="{{a.image}}"  width="100" class="shadow-4" />
+</div>
+ 
+
+    
+</ng-template>
+</p-dialog>
